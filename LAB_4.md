@@ -70,12 +70,11 @@
 | 11 | 5 239 | 4,85 | −2 | 1,45 | −5 | 25 | 15,12 | 4,22 |
 | 12 | 5 339 | 17,52 | 1 | 16,80 | 2 | 65 | 32,48 | 11,03 |
 
-![Средняя и медианная задержка прибытия по месяцам](img/lab4_month_mean_median.png)
+![Средняя и медианная задержка прибытия по месяцам](https://github.com/Mleha22/Labs/blob/main/lab4_month_boxplot.png)
 
-![Доля рейсов с ArrDelay ≥ 15 минут по месяцам](img/lab4_month_share15.png)
+![Доля рейсов с ArrDelay ≥ 15 минут по месяцам](https://github.com/Mleha22/Labs/blob/main/lab4_month_mean_median.png)
 
-![Распределение ArrDelay по месяцам (без выбросов)](img/lab4_month_boxplot.png)
-
+![Распределение ArrDelay по месяцам (без выбросов)](https://github.com/Mleha22/Labs/blob/main/lab4_month_share15.png)
 ### Ответы на вопросы варианта
 
 | Вопрос | Ответ |
